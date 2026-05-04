@@ -49,7 +49,7 @@ Port 8501 (Custom TCP): For the Streamlit UI.
 SSH into your EC2 instance and clone this repository:
 
 Bash
-git clone [https://github.com/YourUsername/AI-Log-Anomaly-Detector.git](https://github.com/YourUsername/AI-Log-Anomaly-Detector.git)
+git clone [https://github.com/NarenMK-25/AI-Log-Anomaly-Detector.git](https://github.com/NarenMK-25/AI-Log-Anomaly-Detector.git)
 cd AI-Log-Anomaly-Detector
 (Note: Don't forget to replace YourUsername with your actual GitHub username!)
 
